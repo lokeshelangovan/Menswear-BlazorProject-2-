@@ -1,9 +1,9 @@
 {
   "entryAssembly": "MenswearProject-1.Client",
   "resources": {
-    "hash": "sha256-ASOePNw4wkY9eplrll95+IbC9O0/noWLesPFEoKItjo=",
+    "hash": "sha256-QF4eO6Kh1UdlXrdo66cB3MJDUktAWe0S1qJ694KWUwY=",
     "runtime": {
-      "dotnet.6.0.25.wteme1wyn6.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
+      "dotnet.6.0.25.dx09olo5rs.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
       "dotnet.wasm": "sha256-bMkwqjzZMFGHpqm+ofi3ABqwdgk/HcpOY6oyNlU6o+s=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
@@ -200,12 +200,12 @@
       "mscorlib.dll": "sha256-veli+XvWHzkA3s4t4DKI+XiyNMpfHQjiO002+ExANkU=",
       "netstandard.dll": "sha256-O9JhHo5KqxkmwmapuxuhG/iMRV7RHcrCDO9z+yv+8yI=",
       "System.Private.CoreLib.dll": "sha256-6rKu8tPdUGsvbSpesoNMVzbx7bNqPRMPV34eI7vSYaQ=",
-      "MenswearProject-1.Shared.dll": "sha256-mnOcNUC9+FeS1/EzrFsgfN1cZh8FMozWbwPZgBd474U=",
-      "MenswearProject-1.Client.dll": "sha256-Y7XwwiYlZKybZYA5pPFhWHdjhU2ir151ObMpSSXrTOU="
+      "MenswearProject-1.Shared.dll": "sha256-N6TDeo7iyEvKxwT5OXTgR0ZgJkrW6he5vsZTF99YpPs=",
+      "MenswearProject-1.Client.dll": "sha256-5f+EvIGBNvH9CaVcUrcmnuBpWgMZW/U2H0RtremG+bM="
     },
     "pdb": {
-      "MenswearProject-1.Shared.pdb": "sha256-zk0B74H/9wCGALfZOuAZCUphVey9g4ZahAFHusMbZ/o=",
-      "MenswearProject-1.Client.pdb": "sha256-ZJGkUyPtn/nf7pTJmjVRLSsNyqPHrSq4yRTbT3MtOic="
+      "MenswearProject-1.Shared.pdb": "sha256-Lu85HvU+yMBf4zXR5/n/3kjNOgM9mtt7gxACmMEF4UU=",
+      "MenswearProject-1.Client.pdb": "sha256-tpzE7mIDnC0imJAKMyTS6rmhJQqkgRuGJPwoVLX1p7o="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

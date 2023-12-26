@@ -18,14 +18,18 @@
 }
 
 .btn {
-    text-decoration: none;
-    color: black;
+    background-color: #002745;
+    color: white;
 }
 
     .btn:hover {
         background-color: aliceblue;
         border-radius: 10px;
     }
+
+.cardDress{
+    border:none;
+}
 
 .logo {
     margin-left: -33%;
@@ -126,7 +130,7 @@ body {
     text-align: center;
 }
 .head3 {
-    margin-left: 50%;
+    margin-left: 10px;
 }
 .help {
     padding-left: 70px !important;

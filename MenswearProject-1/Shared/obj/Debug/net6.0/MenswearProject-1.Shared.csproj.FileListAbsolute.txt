@@ -45,3 +45,15 @@ C:\Users\keys 5\Desktop\Menswear-Blazor\MenswearProject-1\Shared\obj\Debug\net6.
 C:\Users\keys 5\Desktop\Menswear-Blazor\MenswearProject-1\Shared\obj\Debug\net6.0\refint\MenswearProject-1.Shared.dll
 C:\Users\keys 5\Desktop\Menswear-Blazor\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.pdb
 C:\Users\keys 5\Desktop\Menswear-Blazor\MenswearProject-1\Shared\obj\Debug\net6.0\ref\MenswearProject-1.Shared.dll
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\bin\Debug\net6.0\MenswearProject-1.Shared.deps.json
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\bin\Debug\net6.0\MenswearProject-1.Shared.dll
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\bin\Debug\net6.0\MenswearProject-1.Shared.pdb
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.sourcelink.json
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.dll
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\refint\MenswearProject-1.Shared.dll
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\MenswearProject-1.Shared.pdb
+C:\Users\Lenovo\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Shared\obj\Debug\net6.0\ref\MenswearProject-1.Shared.dll

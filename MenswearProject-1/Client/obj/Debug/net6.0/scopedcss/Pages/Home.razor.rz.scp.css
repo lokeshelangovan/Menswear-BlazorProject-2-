@@ -18,14 +18,18 @@ body[b-f6vvf3qg88] {
 }
 
 .btn[b-f6vvf3qg88] {
-    text-decoration: none;
-    color: black;
+    background-color: #002745;
+    color: white;
 }
 
     .btn:hover[b-f6vvf3qg88] {
         background-color: aliceblue;
         border-radius: 10px;
     }
+
+.cardDress[b-f6vvf3qg88]{
+    border:none;
+}
 
 .logo[b-f6vvf3qg88] {
     margin-left: -33%;
@@ -126,7 +130,7 @@ body[b-f6vvf3qg88] {
     text-align: center;
 }
 .head3[b-f6vvf3qg88] {
-    margin-left: 50%;
+    margin-left: 10px;
 }
 .help[b-f6vvf3qg88] {
     padding-left: 70px !important;
