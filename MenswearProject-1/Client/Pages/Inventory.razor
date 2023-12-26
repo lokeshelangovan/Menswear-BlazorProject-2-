@@ -1,0 +1,45 @@
+﻿@page "/Inventory"
+
+<body>
+
+    <div class="center" style="min-width:40%; max-width:40%">
+
+        <h2 class="header">Inventory</h2>
+        <hr />
+        <form method="POST" action="">
+            <div class="txt_field  category">
+                <label> Category:</label>
+                <input type="text" name="Category" required>
+            </div>
+           
+           
+            <div class="txt_field type">
+                <label> Type:</label>
+                <input type="text" name="Type" required>
+            </div>
+            
+            <div class="txt_field brand">
+                <label>Brand:</label>
+                <input type="text" name="Brand">
+            </div>
+
+            <div class="txt_field price">
+                <label>Price(1pcs):</label>
+                <input type="text" name="Price" required>
+            </div> 
+            <div class="txt_field quantity">
+                <label>Quantity:</label>
+                <input type="text" name="Quantity" required>
+            </div>
+            
+            <div class="btn">
+                <input name="submit" type="Submit" value="Add" class="Add" />
+            </div>
+            
+        </form>
+    </div>
+
+</body>
+@code {
+
+}

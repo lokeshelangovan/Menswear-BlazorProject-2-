@@ -1,0 +1,62 @@
+body[b-5mfl29pws4] {
+}
+.center[b-5mfl29pws4] {
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+}
+
+.header[b-5mfl29pws4] {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.txt_field[b-5mfl29pws4] {
+    padding-top: 15px;
+}
+
+.name[b-5mfl29pws4] {
+    padding-left: 28%;
+}
+
+.mobile[b-5mfl29pws4] {
+    padding-left: 19%;
+}
+
+.email[b-5mfl29pws4] {
+    padding-left: 19%;
+}
+
+.pass[b-5mfl29pws4] {
+    padding-left: 24%;
+}
+
+.confirmPass[b-5mfl29pws4] {
+    padding-left: 16%;
+}
+
+.OTPM[b-5mfl29pws4] {
+    padding-left: 35%;
+}
+
+.OTPE[b-5mfl29pws4] {
+    padding-left: 35%;
+}
+
+.btn[b-5mfl29pws4] {
+    padding-left: 43%;
+   
+    
+}
+
+.signup_link[b-5mfl29pws4] {
+    padding-left: 33%;
+}
+
+.signup[b-5mfl29pws4] {
+    background-color: goldenrod;
+    border-radius: 5px;
+}

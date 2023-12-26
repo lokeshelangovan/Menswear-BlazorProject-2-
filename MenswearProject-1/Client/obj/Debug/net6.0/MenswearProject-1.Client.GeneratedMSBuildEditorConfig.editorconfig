@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MenswearProject-1.Client
+build_property.RootNamespace = MenswearProject-1.Client
+build_property.ProjectDir = C:\Users\keys 5\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\keys 5\source\repos\Menswear-BlazorProject-2-\MenswearProject-1\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-f6vvf3qg88
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Inventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jsdru74xy5
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-71so0m4bhi
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Payment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-pqxu18ew4n
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Purchasing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7qvtsuzz4m
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/Seller.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VsbGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-x539ky90hw
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/SellerSignup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VsbGVyU2lnbnVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-5mfl29pws4
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Pages/SignUp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-t0lefjzipc
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1c6pi07kmj
+
+[C:/Users/keys 5/source/repos/Menswear-BlazorProject-2-/MenswearProject-1/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-w6t45c3odz

@@ -1,0 +1,51 @@
+body[b-jsdru74xy5] {
+}
+.center[b-jsdru74xy5] {
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+}
+
+.header[b-jsdru74xy5] {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.txt_field[b-jsdru74xy5] {
+    padding-top: 15px;
+}
+
+.category[b-jsdru74xy5] {
+    padding-left: 28%;
+}
+
+.type[b-jsdru74xy5]{
+    padding-left: 32%;
+}
+
+.brand[b-jsdru74xy5] {
+    padding-left: 31%;
+}
+
+.price[b-jsdru74xy5]{
+    padding-left: 26%;
+}
+
+.quantity[b-jsdru74xy5] {
+    padding-left: 29%;
+}
+
+
+
+.btn[b-jsdru74xy5] {
+    padding-left: 47%;
+    padding-top:10px;
+}
+
+
+.Add[b-jsdru74xy5]{
+    background-color: goldenrod;
+}

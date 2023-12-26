@@ -1,0 +1,51 @@
+﻿body {
+}
+.center {
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+}
+
+.header {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.txt_field {
+    padding-top: 15px;
+}
+
+.category {
+    padding-left: 28%;
+}
+
+.type{
+    padding-left: 32%;
+}
+
+.brand {
+    padding-left: 31%;
+}
+
+.price{
+    padding-left: 26%;
+}
+
+.quantity {
+    padding-left: 29%;
+}
+
+
+
+.btn {
+    padding-left: 47%;
+    padding-top:10px;
+}
+
+
+.Add{
+    background-color: goldenrod;
+}

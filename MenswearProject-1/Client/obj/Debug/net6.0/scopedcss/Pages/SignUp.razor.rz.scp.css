@@ -1,0 +1,60 @@
+body[b-t0lefjzipc] {
+}
+.center[b-t0lefjzipc]{
+    margin-left:30%;
+    margin-top:10%;
+    border:1px solid black;
+    width:30%;
+    height:30%;
+    
+    border-radius:10px;
+}
+
+.header[b-t0lefjzipc]{
+    padding-top:5%;
+    text-align:center;
+}
+
+.txt_field[b-t0lefjzipc]{
+    padding-top:15px;
+}
+
+.name[b-t0lefjzipc]{
+    padding-left:28%;
+}
+
+.mobile[b-t0lefjzipc]{
+    padding-left:19%;
+}
+
+.email[b-t0lefjzipc]{
+    padding-left:19%;
+}
+
+.pass[b-t0lefjzipc]{
+    padding-left:24%;
+}
+
+.confirmPass[b-t0lefjzipc]{
+    padding-left:16%;
+}
+
+.OTPM[b-t0lefjzipc]{
+    padding-left:35%;
+}
+
+.OTPE[b-t0lefjzipc] {
+    padding-left: 35%;
+}
+
+.btn[b-t0lefjzipc]{
+    padding-left:43%
+}
+
+.signup_link[b-t0lefjzipc]{
+    padding-left:33%;
+}
+
+.signup[b-t0lefjzipc]{
+    background-color:goldenrod;
+}

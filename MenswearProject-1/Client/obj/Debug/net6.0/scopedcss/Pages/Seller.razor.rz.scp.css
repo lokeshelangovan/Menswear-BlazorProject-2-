@@ -1,0 +1,41 @@
+.center[b-x539ky90hw] {
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    border-radius:10px;
+}
+
+.Header[b-x539ky90hw] {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.txt_field[b-x539ky90hw] {
+    padding-top: 5%;
+    padding-left: 13%;
+}
+
+.pass[b-x539ky90hw] {
+    padding-left: 19%;
+}
+
+.submit[b-x539ky90hw] {
+    padding-left: 45%;
+    padding-top: 5%;
+}
+
+hr[b-x539ky90hw] {
+    color: black;
+}
+
+.signup_link[b-x539ky90hw] {
+    padding-left: 32%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.btn[b-x539ky90hw] {
+    background-color: goldenrod;
+}

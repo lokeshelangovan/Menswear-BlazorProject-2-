@@ -1,0 +1,51 @@
+/** {
+    background-color: lightgoldenrodyellow;
+}
+*/
+
+
+.container[b-7qvtsuzz4m] {
+    margin-left:30% !important;
+    margin-top:10% !important;
+    width:30%;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+.Product[b-7qvtsuzz4m]{
+     padding-left:10%
+}
+
+.Quantity[b-7qvtsuzz4m] {
+    padding-top: 20px;
+    padding-left: 18%
+}
+.Price[b-7qvtsuzz4m] {
+    padding-top: 20px;
+    padding-left:22%;
+}
+
+.Payment[b-7qvtsuzz4m] {
+    padding-top: 20px;
+    padding-left: 6%;
+}
+
+.Buy[b-7qvtsuzz4m] {
+    padding-top: 20px;
+    padding-left: 40%;
+    padding-bottom:5%;
+}
+
+.heading[b-7qvtsuzz4m] {
+    text-align: center;
+    padding-top:5%;
+}
+
+hr[b-7qvtsuzz4m]{
+   background-color:black;
+}
+
+.btn[b-7qvtsuzz4m]{
+    background-color:goldenrod;
+    width:30%;
+}

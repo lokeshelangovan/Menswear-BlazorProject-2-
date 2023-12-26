@@ -1,0 +1,59 @@
+﻿@page "/Sign up"
+
+
+
+<body>
+    
+        <div class="center" style="min-width:40%; max-width:40%">
+
+        <h2 class="header">Register</h2>
+        <hr />
+            <form method="POST" action="">
+                <div class="txt_field name">
+                <label>Name:</label>
+                    <input type="text" name="name" required>
+            </div>
+
+
+            <div class="txt_field mobile">
+                <label>Mobile Number:</label>
+                    <input type="text" name="Mobile number" required>
+            </div>
+
+            <div class="txt_field email">
+                <label>Email(Optional):</label>
+                <input type="text" name="Email" >
+            </div>
+
+            <div class="txt_field pass">
+                <label>Password:</label>
+                    <input type="password" name="password" required>
+               </div>
+                <div class="txt_field confirmPass">
+                <label>Confirm Password:</label>
+                    <input type="password" name="cpassword" required>
+                 </div>
+            <div class="txt_field">
+                <div class="OTPM">
+               <input type="checkbox" name="mobile num"/>
+               <label for="mobile num">Send OTP To Mobile Number</label><br />
+                </div>
+            <div class="OTPE">
+                <input type="checkbox" name="email" />
+                <label for="emaile">Send OTP To Email</label>
+            </div>
+             </div>
+             <div class="btn">
+                <input name="submit" type="Submit" value="Sign Up" class="signup" />
+                    
+            </div>
+                <div class="signup_link">
+                Have an Account ? <a href="/Login">Login Here</a>
+                </div>
+            </form>
+        </div>
+   
+</body>
+@code {
+
+}

@@ -1,0 +1,51 @@
+﻿/** {
+    background-color: lightgoldenrodyellow;
+}
+*/
+
+
+.container {
+    margin-left:30% !important;
+    margin-top:10% !important;
+    width:30%;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+.Product{
+     padding-left:10%
+}
+
+.Quantity {
+    padding-top: 20px;
+    padding-left: 18%
+}
+.Price {
+    padding-top: 20px;
+    padding-left:22%;
+}
+
+.Payment {
+    padding-top: 20px;
+    padding-left: 6%;
+}
+
+.Buy {
+    padding-top: 20px;
+    padding-left: 40%;
+    padding-bottom:5%;
+}
+
+.heading {
+    text-align: center;
+    padding-top:5%;
+}
+
+hr{
+   background-color:black;
+}
+
+.btn{
+    background-color:goldenrod;
+    width:30%;
+}

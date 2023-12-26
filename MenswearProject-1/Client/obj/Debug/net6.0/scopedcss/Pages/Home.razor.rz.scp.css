@@ -1,0 +1,238 @@
+body[b-f6vvf3qg88] {
+}
+
+.head[b-f6vvf3qg88] {
+    background-color: rgb(122, 155, 122);
+    font-size: 30px;
+    word-spacing: 90px;
+    padding-left: 25%;
+}
+
+.mensw[b-f6vvf3qg88] {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(212, 203, 203);
+    background-image: url(../Image/mwbg1.jpg);
+    margin-top: -20px;
+    border: 2px solid black;
+}
+
+.btn[b-f6vvf3qg88] {
+    text-decoration: none;
+    color: black;
+}
+
+    .btn:hover[b-f6vvf3qg88] {
+        background-color: aliceblue;
+        border-radius: 10px;
+    }
+
+.logo[b-f6vvf3qg88] {
+    margin-left: -33%;
+}
+
+.cloth[b-f6vvf3qg88] {
+    margin-left: 20%;
+    height: 450px;
+}
+
+body[b-f6vvf3qg88] {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fimg[b-f6vvf3qg88] {
+    height: 450px;
+    background-color: lightgray;
+}
+
+.img1[b-f6vvf3qg88] {
+    height: 100%;
+    object-fit: fill;
+}
+
+.navbar[b-f6vvf3qg88] {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    background-color: #002745 !important;
+    width: 100%;
+}
+
+.pin[b-f6vvf3qg88] {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 20%;
+    
+}
+
+
+
+.disc[b-f6vvf3qg88] {
+    border: none;
+    color: white;
+    background-color: #002745;
+}
+
+.search[b-f6vvf3qg88] {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #002745;
+    margin-left:10px;
+}
+
+.secondnavi[b-f6vvf3qg88] {
+    background-color: white !important;
+    position: sticky;
+    top: 60px;
+}
+
+.snavi[b-f6vvf3qg88] {
+    color: #002745 !important;
+}
+
+.sort[b-f6vvf3qg88] {
+    margin-left: 500px;
+}
+
+.firstc[b-f6vvf3qg88] {
+    background-color: #002745;
+}
+
+.dress[b-f6vvf3qg88] {
+    height: 300px;
+}
+
+.heading[b-f6vvf3qg88] {
+    color: #002745;
+}
+
+.btn1[b-f6vvf3qg88] {
+    border: none;
+   background-color: #002745;
+    color: white;
+
+}
+
+
+.comp[b-f6vvf3qg88] {
+    text-align: center;
+}
+
+.head2[b-f6vvf3qg88] {
+    margin-left: 40%;
+    text-align: center;
+}
+.head3[b-f6vvf3qg88] {
+    margin-left: 50%;
+}
+.help[b-f6vvf3qg88] {
+    padding-left: 70px !important;
+    padding-top: 16px;
+}
+
+.cart[b-f6vvf3qg88] {
+    padding-left: 70px !important;
+    padding-top: 16px;
+}
+
+.flex-container[b-f6vvf3qg88] {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    display: flex;
+    justify-items: space-between;
+}
+
+.signin[b-f6vvf3qg88] {
+    color: white !important;
+}
+
+.btndrop[b-f6vvf3qg88] {
+    background-color: #002745 !important;
+    color: white !important;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.cname[b-f6vvf3qg88] {
+    color: #002745;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-bottom: 20%;
+}
+
+
+
+.navii1[b-f6vvf3qg88] {
+    padding-top: 10px;
+}
+
+.masterhead[b-f6vvf3qg88] {
+    padding-top: 38px;
+    text-align: center;
+    /* position: sticky;
+  top: 60px; */
+}
+/*--------------DropDown---------------------------*/
+.dropbtn[b-f6vvf3qg88] {
+    background-color: white;
+    color: #002745;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown[b-f6vvf3qg88] {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content[b-f6vvf3qg88] {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a[b-f6vvf3qg88] {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-content a:hover[b-f6vvf3qg88] {
+            background-color: #f1f1f1
+        }
+
+.dropdown:hover .dropdown-content[b-f6vvf3qg88] {
+    display: block;
+}
+
+.dropdown:hover .dropbtn[b-f6vvf3qg88] {
+    background-color: white;
+}
+
+/*--------------1st navibar reponsive--------------------------*/
+.flex-container[b-f6vvf3qg88] {
+    display: flex;
+    flex-direction: row;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px)  {
+    .flex-container[b-f6vvf3qg88] {
+        flex-direction: column;
+    }
+}

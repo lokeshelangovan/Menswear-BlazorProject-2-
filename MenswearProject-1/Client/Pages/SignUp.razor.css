@@ -1,0 +1,60 @@
+﻿body {
+}
+.center{
+    margin-left:30%;
+    margin-top:10%;
+    border:1px solid black;
+    width:30%;
+    height:30%;
+    
+    border-radius:10px;
+}
+
+.header{
+    padding-top:5%;
+    text-align:center;
+}
+
+.txt_field{
+    padding-top:15px;
+}
+
+.name{
+    padding-left:28%;
+}
+
+.mobile{
+    padding-left:19%;
+}
+
+.email{
+    padding-left:19%;
+}
+
+.pass{
+    padding-left:24%;
+}
+
+.confirmPass{
+    padding-left:16%;
+}
+
+.OTPM{
+    padding-left:35%;
+}
+
+.OTPE {
+    padding-left: 35%;
+}
+
+.btn{
+    padding-left:43%
+}
+
+.signup_link{
+    padding-left:33%;
+}
+
+.signup{
+    background-color:goldenrod;
+}
